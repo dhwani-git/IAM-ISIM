@@ -1,0 +1,2 @@
+# IAM-ISIM
+IBM Security Identity Manager is an automated and policy-based solution that manages user access across IT environments, helping to drive effective identity management and governance across the enterprise. By using roles, accounts, and access permissions, it helps automate the creation, modification, and termination of user privileges throughout the entire user lifecycle. IBM Security Identity Manager can help increase user efficiency, reduce IT administration costs, enforce security, and manage compliance.
